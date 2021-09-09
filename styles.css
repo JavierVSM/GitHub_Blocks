@@ -1,0 +1,56 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container{
+    background-color: #cde3eb;
+    margin: 0;
+}
+
+h1{
+    color: darkslategrey;
+    font-size: xx-large;
+    text-align: center;
+    padding: 30px;
+}
+
+.catPic{
+    height: 200px;
+}
+
+.row1{
+    background-color: mediumturquoise;
+    margin: 10px;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;    
+}
+
+.row2{
+    background-color: rgb(167, 100, 141);
+    margin: 10px;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly; 
+}
+
+.row3{
+    background-color: white;
+    margin: 10px;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly; 
+}
+
+p{
+    text-align: center;
+    color: darkslategrey;
+    padding: 20px;
+}
+
+span{
+    color: rgb(50, 189, 207);
+}
